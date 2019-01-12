@@ -1,0 +1,5 @@
+*.pyc
+checkpoints/
+data/
+*.png
+*.jpg
