@@ -3,3 +3,5 @@ checkpoints/
 data/
 *.png
 *.jpg
+*.ipynb_checkpoints/
+*.ckpt
